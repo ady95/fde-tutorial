@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# 실행 중 생성되는 산출물 — 직접 만들어 보세요
+ch05/output/
+ch05/etl.log
+ch05/data/quality_cleaned.csv
+ch05/data/quality_needs_check.csv
+ch06/chunks.json
+ch06/embeddings.npy
+ch07/sent_report.txt
+ch04/weekly_briefing.md
+ch09/project1/report_*.md
+ch09/project2/data/consult_logs_labeled.csv
+
+.DS_Store
+Thumbs.db

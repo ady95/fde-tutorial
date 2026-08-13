@@ -1,0 +1,6 @@
+{
+  "source_csv": "data/quality_raw.csv",
+  "encodings": ["utf-8", "cp949"],
+  "measure_range": [10.0, 15.0],
+  "output_dir": "output"
+}
