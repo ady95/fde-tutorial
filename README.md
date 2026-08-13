@@ -20,9 +20,9 @@
 git clone https://github.com/ady95/fde-tutorial.git
 cd fde-tutorial
 
-# uv로 가상환경 + 패키지 설치 (책 03-1 참조)
+# uv로 가상환경 + 패키지 설치 (책 03-1 참조 — 책과 동일한 결과 재현을 위해 검증 버전 고정)
 uv venv .venv
-uv pip install pandas rank-bm25 fastapi "uvicorn[standard]" openai python-dotenv tabulate numpy
+uv pip install "pandas==2.3.3" "rank-bm25==0.2.2" "fastapi==0.141.1" "uvicorn[standard]==0.52.2" "openai==3.0.0" python-dotenv tabulate numpy
 ```
 
 LLM 호출 실습(ch03 일부, ch04, ch06 일부, ch07 일부)은 OpenAI API 키가 필요합니다.
