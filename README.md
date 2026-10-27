@@ -1,6 +1,16 @@
 # FDE 따라하기 — 예제 코드
 
+<p align="center">
+  <a href="https://wikidocs.net/book/20918"><img src="assets/book-cover.png" alt="FDE(Forward Deployed Engineer) 따라하기 책 표지" width="300"></a>
+</p>
+
 위키독스 책 [「FDE(Forward Deployed Engineer) 따라하기」](https://wikidocs.net/book/20918)의 실습 예제 코드 저장소입니다.
+
+## 책 구매
+
+- [YES24](https://www.yes24.com/product/goods/195142755)
+- [교보문고](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000013429336)
+- [위키독스](https://wikidocs.net/book/20918)
 
 ## 구성
 
